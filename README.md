@@ -3,7 +3,15 @@
 <!-- Shield badges docs https://shields.io/badges -->
 <!-- Inspiration https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md -->
 
-My name is Josef and and I do hobby projects in my spare time
+## Ahoj 👋
+
+My name is Josef and I create various projects and other things that come to mind.
+
+Besides programming, I also have other interests around which some of my projects revolve.
+
+### Contact me 📬
+
+Feel free to contact me with anything and you can also check out my personal site or blog!
 
 <p>
   <a href="mailto:razj@josefraz.cz"><img alt="razj@josefraz.cz" src="https://img.shields.io/badge/razj@josefraz.cz-000?style=social&logo=gmail&logoColor=000" /></a>
@@ -13,7 +21,7 @@ My name is Josef and and I do hobby projects in my spare time
   <a href="https://blog.josefraz.cz" target="_blank"><img alt="blog.josefraz.cz" src="https://img.shields.io/badge/blog.josefraz.cz-000?style=social&logo=ghost&logoColor=7f7f7f" /></a>
 </p>
 
-### Technologies:
+### Technologies 👨‍💻
 
 <p>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" /></a>
@@ -55,7 +63,18 @@ My name is Josef and and I do hobby projects in my spare time
   <a href="#"><img height="300" alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" /></a>
 </p>
 
-### Stats for the last year:
+<img alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/></a>
+
+### Some of my projects 🛠️
+
+- [Whisper](https://github.com/jsfraz/whisper) – Secure private self-hosted end-to-end encryption messaging app
+- [Trek](https://github.com/jsfraz/trek-tracker) – GPS tracker for motorcycles
+- [L.U.C.I.A.N](https://github.com/jsfraz/lucian) – SSH honeypot for logging credentials and IP address details and data visualising
+- [SFgame albumer](https://github.com/jsfraz/sfgame-albumer) – Program used to max in-game stats
+
+and many other smaller or private utilities and programs...
+
+### Stats for the last year 📊
 
 [![wakatime](https://wakatime.com/badge/user/992c0ad1-7dae-4115-9198-1ba533452d32.svg)](https://wakatime.com/@jsfrz)
 
