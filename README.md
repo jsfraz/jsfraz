@@ -3,8 +3,6 @@
 <!-- Shield badges docs https://shields.io/badges -->
 <!-- Inspiration https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md -->
 
-## Ahoj 👋
-
 My name is Josef and I create various projects and other things that come to mind.
 
 Besides programming, I also have other interests around which some of my projects revolve.
