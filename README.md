@@ -3,9 +3,7 @@
 <!-- Shield badges docs https://shields.io/badges -->
 <!-- Inspiration https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md -->
 
-## Hello and welcome
-
-My name is Josef and I write code and do hobby projects in my spare time
+My name is Josef and and I do hobby projects in my spare time
 
 <p>
   <a href="https://josefraz.cz" target="_blank"><img alt="josefraz.cz" src="https://img.shields.io/badge/josefraz.cz-000?style=social&logo=firefox&logoColor=007ACC" /></a>
