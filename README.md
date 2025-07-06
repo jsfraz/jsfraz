@@ -8,9 +8,9 @@
 My name is Josef and I write code and do hobby projects in my spare time
 
 <p>
-  <a href="https://josefraz.cz"><img alt="josefraz.cz" src="https://img.shields.io/badge/josefraz.cz-000?style=social&logo=firefox&logoColor=007ACC" /></a>
+  <a href="https://josefraz.cz" target="_blank"><img alt="josefraz.cz" src="https://img.shields.io/badge/josefraz.cz-000?style=social&logo=firefox&logoColor=007ACC" /></a>
   <img/>
-  <a href="https://blog.josefraz.cz"><img alt="blog.josefraz.cz" src="https://img.shields.io/badge/blog.josefraz.cz-000?style=social&logo=ghost&logoColor=7f7f7f" /></a>
+  <a href="https://blog.josefraz.cz" target="_blank"><img alt="blog.josefraz.cz" src="https://img.shields.io/badge/blog.josefraz.cz-000?style=social&logo=ghost&logoColor=7f7f7f" /></a>
 </p>
 
 ### Technologies:
@@ -59,11 +59,11 @@ My name is Josef and I write code and do hobby projects in my spare time
 
 [![wakatime](https://wakatime.com/badge/user/992c0ad1-7dae-4115-9198-1ba533452d32.svg)](https://wakatime.com/@jsfrz)
 
-<a href="https://wakatime.com/@jsfrz"><img alt="Wakatime code graph for the last year" src="https://wakatime.com/share/@jsfrz/1680aaf5-a772-4f41-9288-3b272a547303.svg" /></a>
+<a href="https://wakatime.com/@jsfrz" target="_blank"><img alt="Wakatime code graph for the last year" src="https://wakatime.com/share/@jsfrz/1680aaf5-a772-4f41-9288-3b272a547303.svg" /></a>
 
 <details>
   <summary>Language details</summary>
   
-  <a href="https://wakatime.com/@jsfrz"><img alt="Wakatime language graph for the last year" src="https://wakatime.com/share/@jsfrz/4db80947-c7d4-4903-96dc-39eaac4790af.svg" width="750"/></a>
+  <a href="https://wakatime.com/@jsfrz" target="_blank"><img alt="Wakatime language graph for the last year" src="https://wakatime.com/share/@jsfrz/4db80947-c7d4-4903-96dc-39eaac4790af.svg" width="750"/></a>
 </details>
 
