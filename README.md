@@ -6,6 +6,8 @@
 My name is Josef and and I do hobby projects in my spare time
 
 <p>
+  <a href="mailto:razj@josefraz.cz"><img alt="razj@josefraz.cz" src="https://img.shields.io/badge/razj@josefraz.cz-000?style=social&logo=gmail&logoColor=000" /></a>
+  <img/>
   <a href="https://josefraz.cz" target="_blank"><img alt="josefraz.cz" src="https://img.shields.io/badge/josefraz.cz-000?style=social&logo=firefox&logoColor=007ACC" /></a>
   <img/>
   <a href="https://blog.josefraz.cz" target="_blank"><img alt="blog.josefraz.cz" src="https://img.shields.io/badge/blog.josefraz.cz-000?style=social&logo=ghost&logoColor=7f7f7f" /></a>
