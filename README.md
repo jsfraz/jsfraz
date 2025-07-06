@@ -61,4 +61,9 @@ My name is Josef and I write code and do hobby projects in my spare time
 
 <a href="https://wakatime.com/@jsfrz"><img alt="Wakatime code graph for the last year" src="https://wakatime.com/share/@jsfrz/1680aaf5-a772-4f41-9288-3b272a547303.svg" /></a>
 
-<a href="https://wakatime.com/@jsfrz"><img alt="Wakatime language graph for the last year" src="https://wakatime.com/share/@jsfrz/4db80947-c7d4-4903-96dc-39eaac4790af.svg" width="750"/></a>
+<details>
+  <summary>Language details</summary>
+  
+  <a href="https://wakatime.com/@jsfrz"><img alt="Wakatime language graph for the last year" src="https://wakatime.com/share/@jsfrz/4db80947-c7d4-4903-96dc-39eaac4790af.svg" width="750"/></a>
+</details>
+
