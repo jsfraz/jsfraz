@@ -1,12 +1,21 @@
-<!-- Modified output of https://github.com/maurodesouza/profile-readme-generator -->
+<!-- Modified template from https://github.com/maurodesouza/profile-readme-generator -->
+<!-- Premade badges https://github.com/Ileriayo/markdown-badges --> 
+<!-- Shield badges docs https://shields.io/badges -->
 
-## Hello my name is Josef,
+## Hello and welcome
 
-and I write code and do hobby projects in my spare time
+My name is Josef and I write code and do hobby projects in my spare time
 
-[![Blog](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.josefraz.cz/)
+<p>
+  <a href="https://josefraz.cz"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=social&logo=firefox&logoColor=007ACC" /></a>
+  <img/>
+  <a href="https://blog.josefraz.cz"><img alt="Blog" src="https://img.shields.io/badge/Blog-000?style=social&logo=ghost&logoColor=7f7f7f" /></a>
+</p>
 
 ### Technologies:
+
+<!--
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <div align="left">
   <picture>
@@ -91,7 +100,8 @@ and I write code and do hobby projects in my spare time
 </div>
 
 ###
+-->
 
-<h3 align="left">Stats :</h3>
+### Stats:
 
 [![wakatime](https://wakatime.com/badge/user/992c0ad1-7dae-4115-9198-1ba533452d32.svg)](https://wakatime.com/@992c0ad1-7dae-4115-9198-1ba533452d32)
