@@ -13,7 +13,9 @@ my name is Josef and I write code from time to time</p>
 <h3 align="left">Technologies:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" alt="linux logo"  />
+  <a href="https://en.wikipedia.org/wiki/Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" alt="linux logo"  />
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" alt="postgresql logo"  />
   <img width="12" />
