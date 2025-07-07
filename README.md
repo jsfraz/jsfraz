@@ -58,7 +58,7 @@ Feel free to contact me with anything and you can also check out my personal sit
   <img/>
   <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" /></a>
   <img/>
-  <a href="#"><img height="300" alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" /></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" /></a>
 </p>
 
 <img alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/></a>
