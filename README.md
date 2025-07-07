@@ -61,7 +61,9 @@ Feel free to contact me with anything and you can also check out my personal sit
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" /></a>
 </p>
 
+<!--
 <img alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/></a>
+-->
 
 ### Some of my projects 🛠️
 
