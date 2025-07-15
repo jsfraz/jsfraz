@@ -5,7 +5,7 @@
 
 ## Ahoj 🤘
 
-My name is Josef and I create various projects and other things that come to my mind. Besides programming, I also have other interests around which some of my projects revolve.
+My name is Josef and I study software engineering. I create various projects and other things that come to my mind. Besides programming, I also have other interests around which some of my projects revolve.
 
 ### Contact me 📬
 
