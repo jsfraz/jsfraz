@@ -67,10 +67,10 @@ Feel free to contact me with anything and you can also check out my personal sit
 
 ### Some of my projects 🛠️
 
-- [Whisper](https://github.com/jsfraz/whisper) – Secure private self-hosted end-to-end encryption messaging app
+- [Whisper](https://github.com/jsfraz/whisper) – secure private self-hosted end-to-end encryption messaging app
 - [Trek](https://github.com/jsfraz/trek-tracker) – GPS tracker for motorcycles
 - [L.U.C.I.A.N](https://github.com/jsfraz/lucian) – work in progress SSH honeypot for logging credentials, IP address details and data visualising
-- [SFgame albumer](https://github.com/jsfraz/sfgame-albumer) – Program used to max in-game stats
+- [SFgame albumer](https://github.com/jsfraz/sfgame-albumer) – program used to max in-game stats
 - [mega-backuper](https://github.com/jsfraz/mega-backuper) - container application for backing up other container's volumes and database dumps to [MEGA cloud](https://mega.io/)
 
 and many other smaller or private utilities and programs...
