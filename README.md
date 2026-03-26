@@ -26,6 +26,8 @@ Feel free to contact me with anything and you can also check out my personal sit
   <img/>
   <a href="#"><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" /></a>
   <img/>
+  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></a>
+  <img/>
   <a href="#"><img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt&logoColor=#00DC82" /></a>
   <img/>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" /></a>
