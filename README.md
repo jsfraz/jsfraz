@@ -50,6 +50,8 @@ Feel free to contact me with anything and you can also check out my personal sit
   <img/>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
   <img/>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /></a>
+  <img/>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" /></a>
   <img/>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
