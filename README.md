@@ -62,6 +62,8 @@ Feel free to contact me with anything and you can also check out my personal sit
   <img/>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /></a>
   <img/>
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" /></a>
+  <img/>
   <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" /></a>
   <img/>
   <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" /></a>
