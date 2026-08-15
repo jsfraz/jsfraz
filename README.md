@@ -26,13 +26,17 @@ Feel free to contact me with anything and you can also check out my personal sit
   <img/>
   <a href="#"><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" /></a>
   <img/>
-  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></a>
+  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /></a>
   <img/>
-  <a href="#"><img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt&logoColor=#00DC82" /></a>
+  <a href="#"><img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=#00DC82" /></a>
   <img/>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" /></a>
   <img/>
   <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" /></a>
+  <img/>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /></a>
+  <img/>
+  <a href="#"><img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /></a>
   <img/>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" /></a>
   <img/>
@@ -40,19 +44,15 @@ Feel free to contact me with anything and you can also check out my personal sit
   <img/>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /></a>
   <img/>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /></a>
-  <img/>
-  <a href="#"><img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /></a>
   <img/>
   <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" /></a>
   <img/>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /></a>
-  <img/>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
   <img/>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /></a>
-  <img/>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" /></a>
+  <img/>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /></a>
   <img/>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
   <img/>
