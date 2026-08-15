@@ -2,9 +2,9 @@
 
 ## Ahoj,
 
-My name is Josef and I study software engineering. I enjoy working on various small projects, especially those that bridge the world of programming with the real world. Lately, I've also been focusing on creating and managing public websites.
+My name is Josef and I study software engineering. I enjoy building small projects, especially those that bridge the IT world with the real one. Lately I also create and manage public websites.
 
-### Some of the projects
+### Some of my projects
 
 <table>
   <tr>
@@ -94,8 +94,6 @@ My name is Josef and I study software engineering. I enjoy working on various sm
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
@@ -123,8 +121,6 @@ My name is Josef and I study software engineering. I enjoy working on various sm
 </p>
 
 ### Contact me
-
-Feel free to contact me with anything and you can also check out my personal site or blog!
 
 <p>
   <a href="mailto:razj@josefraz.cz"><img alt="razj@josefraz.cz" src="https://img.shields.io/badge/razj@josefraz.cz-000?style=social&logo=gmail&logoColor=000" /></a>
