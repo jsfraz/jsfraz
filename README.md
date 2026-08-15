@@ -116,7 +116,6 @@ My name is Josef and I study software engineering. I enjoy building small projec
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" />
 </p>
 
