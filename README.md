@@ -112,7 +112,6 @@ My name is Josef and I study software engineering. I enjoy building small projec
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23009979.svg?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
