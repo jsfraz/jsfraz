@@ -90,7 +90,6 @@ My name is Josef and I study software engineering. I enjoy building small projec
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
@@ -102,9 +101,7 @@ My name is Josef and I study software engineering. I enjoy building small projec
 <p>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="PostGIS" src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-fdb515?style=flat-square&logo=timescale&logoColor=black" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
