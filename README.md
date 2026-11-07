@@ -79,8 +79,6 @@ My name is Josef and I study software engineering. I enjoy building small projec
 
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white" />
-  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" />
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=#00DC82" />
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
@@ -89,9 +87,7 @@ My name is Josef and I study software engineering. I enjoy building small projec
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
 </p>
@@ -99,19 +95,17 @@ My name is Josef and I study software engineering. I enjoy building small projec
 **Data**
 
 <p>
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 **Infra & hardware**
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" />
 </p>
 
