@@ -2,7 +2,7 @@
 
 ## Ahoj,
 
-My name is Josef and I study software engineering. I enjoy building small projects, especially those that bridge the IT world with the real one. Lately I also create and manage public websites.
+My name is Josef and I work as a software engineer. I enjoy building small projects, especially those that bridge the IT world with the real one. Lately I also create and manage public websites.
 
 ### Some of my projects
 
